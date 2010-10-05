@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT page (pubdate, title, content, template?, meta?, menu?, parent?, private?) >
+<!ATTLIST page url ID #REQUIRED >
+<!ELEMENT pubdate (#PCDATA) >
+<!ELEMENT title (#PCDATA) >
+<!ELEMENT content (#PCDATA) >
+<!ELEMENT template (#PCDATA) >
+<!ELEMENT meta (keywords?, description?) >
+<!ELEMENT keywords (#PCDATA) >
+<!ELEMENT description (#PCDATA) >
+<!ELEMENT menu (#PCDATA) >
+<!ATTLIST menu order CDATA #REQUIRED>
+<!ELEMENT parent (#PCDATA) >
+<!ELEMENT private EMPTY >

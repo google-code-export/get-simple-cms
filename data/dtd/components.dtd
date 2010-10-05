@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT components (component)* >
+<!ELEMENT component (title, content, cache?) >
+<!ELEMENT title (#PCDATA) >
+<!ELEMENT content (#PCDATA) >
+<!ELEMENT cache EMPTY >
