@@ -7,3 +7,4 @@ Instructions for when you want to replace the 'Beta' download with a newer versi
   * Zip up that folder with the name format: *`GetSimple_X.XB_rXXX.zip`*
   * Upload this new zip file to the [http://code.google.com/p/get-simple-cms/downloads/list downloads] section of our Google Code project using the same naming convention: *`GetSimple X.X Beta - rXXX`*. Give this new download two new labels: 'Beta' & 'Featured'
   * We now need to get rid of the old beta download. Go to that particular file and click 'Delete download'. It will ask you to confirm your deletion, but instead of deleting just mark it as 'depreciated'.
+  * Edit the get-simple.info `.htaccess` file to point /beta to the new file and also edit `/download/` to show the correct details on the beta download (size & rev #)
