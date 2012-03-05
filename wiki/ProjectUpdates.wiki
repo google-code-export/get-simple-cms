@@ -1,5 +1,5 @@
-<h3>SVN Code Updates:</h3>
-<wiki:gadget url="http://code.google.com/feeds/p/get-simple-cms/svnchanges/basic" height="200" border="0" /> 
-
 <h3>Issue Updates:</h3>
-<wiki:gadget url="http://code.google.com/feeds/p/get-simple-cms/issueupdates/basic" height="200" border="0" /> 
+<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/trunk/examples/issueupdates_example.xml" up_projectName="get-simple-cms" width="500" height="200" border="0" />
+
+<h3>SVN Code Updates:</h3>
+<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/trunk/examples/svnupdates_example.xml" up_projectName="get-simple-cms" width="500" height="200" border="0" />
