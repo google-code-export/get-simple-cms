@@ -1,0 +1,5 @@
+<h3>SVN Code Updates:</h3>
+<wiki:gadget url="http://code.google.com/feeds/p/get-simple-cms/svnchanges/basic" height="200" border="0" /> 
+
+<h3>Issue Updates:</h3>
+<wiki:gadget url="http://code.google.com/feeds/p/get-simple-cms/issueupdates/basic" height="200" border="0" /> 
