@@ -1,5 +1,6 @@
-<wiki:gadget url="http://bulletphysics.org/~erwincoumans/com1.xml" up_projectName="get-simple-cms" width="800" height="100"/> 
+=== SVN Updates === 
+<wiki:gadget url="http://bulletphysics.org/~erwincoumans/com1.xml" up_projectName="get-simple-cms" width="800" height="200"/> 
 === Updates to All Issues (including closed/fixed issues) === 
-<wiki:gadget url="http://bulletphysics.org/~erwincoumans/gc23.xml" up_projectName="get-simple-cms" width="800" height="250"/> 
+<wiki:gadget url="http://bulletphysics.org/~erwincoumans/gc23.xml" up_projectName="get-simple-cms" width="800" height="200"/> 
 === Detailed Updates to Open Issues ===
-<wiki:gadget url="http://bulletphysics.org/~erwincoumans/t6.xml" up_projectName="get-simple-cms" width="800" height="250"/> 
+<wiki:gadget url="http://bulletphysics.org/~erwincoumans/t6.xml" up_projectName="get-simple-cms" width="800" height="200"/> 
