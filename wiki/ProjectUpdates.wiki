@@ -1,5 +1,8 @@
-<h3>Issue Updates:</h3>
-<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/trunk/examples/issueupdates_example.xml" up_projectName="get-simple-cms" width="500" height="200" border="0" />
-
-<h3>SVN Code Updates:</h3>
-<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/trunk/examples/svnupdates_example.xml" up_projectName="get-simple-cms" width="500" height="200" border="0" />
+<wiki:gadget url="http://bulletphysics.org/~erwincoumans/com1.xml" 
+up_projectName="get-simple-cms" width="800"  height="100"/> 
+= Updates to All Issues (including closed/fixed issues) = 
+<wiki:gadget url="http://bulletphysics.org/~erwincoumans/gc23.xml" 
+up_projectName="get-simple-cms" width="800"  height="250"/> 
+= Detailed Updates to Open Issues = 
+<wiki:gadget url="http://bulletphysics.org/~erwincoumans/t6.xml" 
+up_projectName="get-simple-cms" width="800"  height="250"/> 
